@@ -1,2 +1,2 @@
 #!/bin/bash
-alx-system_engineering-devops
+$ wc -1 file
